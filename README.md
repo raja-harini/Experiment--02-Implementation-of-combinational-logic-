@@ -18,6 +18,10 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 ## Logic Diagram
 ## Procedure
+
+Connect the supply (+5V) to the circuit Switch ON the main switch Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed. If the output is 1, then the bulb glows. Check all the gates following the same procedure. Program: /* Program to verify the truth table in quartus for the basic logic gates using Verilog programming
+
+
 ![CODE](https://github.com/raja-harini/Experiment--02-Implementation-of-combinational-logic-/assets/149037372/af2e0dc8-4ad5-4cdb-bede-752df55d66a3)
 ![WAVE FORM](https://github.com/raja-harini/Experiment--02-Implementation-of-combinational-logic-/assets/149037372/716f72d2-5f36-4c87-b736-cb0137cdcf50)
 
